@@ -1,0 +1,13 @@
+//bot link 
+http://t.me/Sniper_Osiz_Demo_bot
+
+
+https://youtu.be/SeYweB-3H80?si=hWrZiIIhjg8-dODd
+
+// UI INline KetBoard
+
+https://core.telegram.org/bots/2-0-intro
+
+// api methods
+
+https://github.com/yagop/node-telegram-bot-api/blob/master/doc/api.md

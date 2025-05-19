@@ -1,0 +1,5 @@
+module.exports = {
+    routercontract: '0xaa23DC0BCaed904064039921B8FA7ac8567bcE30',
+    factorycontract: '0x0Ce088980eE0c1d84Bae870b69Ed558B8CC5a9Eb',
+    WETH: '0xF45fF3F19686c316B3245250404C326Cb65aebEe'
+}
